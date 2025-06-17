@@ -57,7 +57,6 @@ AI, özellikle "AI Asistan" ve "Takvim Oluştur" modüllerinde aktif rol alır. 
 ```bash
 git clone https://github.com/samettalhatozlu/Taskera
 cd Taskera
-````
 
 ### 2. Composer bağımlılıklarını yükleyin
 
@@ -114,6 +113,5 @@ Bu proje [MIT Lisansı](https://github.com/samettalhatozlu/Taskera/blob/main/LIC
 ---
 
 ## 📬 İletişim
-
-**Geliştirici:** Samet Talha Tozlu
 📎 LinkedIn: [linkedin.com/in/samettalhatozlu](https://linkedin.com/in/samettalhatozlu)
+````
