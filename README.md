@@ -1,4 +1,4 @@
-![1](https://github.com/user-attachments/assets/85983811-7e56-45ee-b97a-ef8a0cc41721)# Taskera - Yapay Zeka Destekli Proje Yönetim Uygulaması
+# Taskera - Yapay Zeka Destekli Proje Yönetim Uygulaması
 
 **Taskera**, projelerinizi, görevlerinizi ve ekiplerinizi merkezi bir panelden kolayca yönetmenizi sağlayan yapay zeka destekli bir proje yönetim sistemidir. Kullanıcı dostu arayüzü, görev yönetimi, takvim oluşturucu ve AI asistan özellikleriyle kapsamlı bir deneyim sunar.
 
