@@ -1,4 +1,4 @@
-# Taskera - Yapay Zeka Destekli Proje Yönetim Uygulaması
+![1](https://github.com/user-attachments/assets/85983811-7e56-45ee-b97a-ef8a0cc41721)# Taskera - Yapay Zeka Destekli Proje Yönetim Uygulaması
 
 **Taskera**, projelerinizi, görevlerinizi ve ekiplerinizi merkezi bir panelden kolayca yönetmenizi sağlayan yapay zeka destekli bir proje yönetim sistemidir. Kullanıcı dostu arayüzü, görev yönetimi, takvim oluşturucu ve AI asistan özellikleriyle kapsamlı bir deneyim sunar.
 
@@ -33,6 +33,18 @@
 | **Meta Llama 4 Scout** | AI öneri sistemi (model: `meta-llama/llama-4-scout`)    |
 
 ---
+
+![7](https://github.com/user-attachments/assets/aaf78a4d-23fb-46f0-8059-9878cf3e0061)
+![1](https://github.com/user-attachments/assets/e1b0d2d2-df10-4668-8260-ed8af3d0e488)
+![2](https://github.com/user-attachments/assets/f923e378-cd69-4999-a27d-3ad88fba33d7)
+![2 1](https://github.com/user-attachments/assets/b96b0890-9a8f-44fe-b490-a7e1d644f182)
+![3](https://github.com/user-attachments/assets/86963452-4fed-43db-ac19-00a68b93625b)
+![3 1](https://github.com/user-attachments/assets/4dff21ec-116a-4600-b863-72efd9b06f18)
+![4](https://github.com/user-attachments/assets/b8900ba5-a61c-4a2f-803f-8113bf2a10df)
+![5](https://github.com/user-attachments/assets/01967e16-3ce2-4cf8-b8a7-9cea1787bad3)
+![8](https://github.com/user-attachments/assets/a19b507a-4e9b-4957-84f5-f04524e9acb6)
+![6](https://github.com/user-attachments/assets/d7b60284-50c1-4852-ac27-4f4bb940106f)
+
 
 ## 🤖 Yapay Zeka Entegrasyonu
 
