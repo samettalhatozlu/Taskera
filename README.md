@@ -44,7 +44,7 @@ Taskera, OpenRouter platformu üzerinden Meta tarafından geliştirilen **Llama 
 > **Çoklu Dil ve Modalite:** Destekli  
 > **Kullanım Alanı:** Görev önerisi, faz planlama, teknoloji tavsiyesi  
 > **Lisans:** Llama 4 Community License  
-> **Yayın Tarihi:** 17 Haziram 2025  
+> **Yayın Tarihi:** 5 Nisan 2025  
 
 AI, özellikle "AI Asistan" ve "Takvim Oluştur" modüllerinde aktif rol alır. Kullanıcıdan gelen veriye göre detaylı planlama ve öneriler sunar.
 
