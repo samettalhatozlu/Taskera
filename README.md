@@ -1,7 +1,3 @@
-Elbette! Aşağıda, tüm bölümleri mantıklı bir sırayla **Markdown biçiminde** ve `#`, `##`, `###` başlık etiketleri ile yapılandırılmış şekilde yeniden düzenledim. Bu dosyayı doğrudan `README.md` olarak kullanabilirsin:
-
----
-
 ````markdown
 # Taskera - Yapay Zeka Destekli Proje Yönetim Uygulaması
 
